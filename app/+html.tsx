@@ -1,4 +1,3 @@
-// app/+html.tsx
 import React from 'react';
 import { ScrollView, StyleSheet } from 'react-native';
 import RenderHTML, { HTMLSource } from 'react-native-render-html';

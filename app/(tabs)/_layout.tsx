@@ -1,4 +1,3 @@
-// app/(tabs)/_layout.tsx
 import React from 'react';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import ExploreScreen from './explore';
